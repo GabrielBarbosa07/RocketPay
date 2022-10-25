@@ -80,7 +80,6 @@ addButton.addEventListener("click", () => {
   alert("Cartão Adicionado")
 })
 
-let verifar, validação, amanha//
 document.querySelector("form").addEventListener("submit", (e) => {
   e.preventDefault()
 })
